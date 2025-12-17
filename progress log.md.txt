@@ -1,0 +1,16 @@
+12/17/2025
+Worked through Portswigger Path Traversal lab to completion. 
+Solved lab 1 by modifying the image page in Burp with repeater and using an absolute reference to /etc/passwd. Solved this by taking knowledge learned from server side vulnerabilities lab previously
+
+Learned about nested traversal paths and used one effectively to solve a lab with an image file and traversing to etc/passwd
+
+Learned about using url encoded paths and solved a lab by replacing the ../ path with %252e%252e%252f. It took some trial and error but I solved it. 
+
+Also learned about working around validation methods that require the base root path and completed the lab.
+
+Learned about using nullbytes to bypass the file extension requirement
+
+SQL Injection:
+Worked through SQL injection lab.
+Learned about union attacks and the requirements to perform them
+Learned how to determine the number of columns needed for a union attack and completed the lab performing this
