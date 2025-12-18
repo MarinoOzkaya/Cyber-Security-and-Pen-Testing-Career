@@ -14,3 +14,11 @@ SQL Injection:
 Worked through SQL injection lab.
 Learned about union attacks and the requirements to perform them
 Learned how to determine the number of columns needed for a union attack and completed the lab performing this
+
+12/18/2025
+SQL injection:
+Learned and practiced UNION SELECT to retrieve string data
+Completed a lab where I retrieved admin credentials through UNION SELECT attack SQL injection
+Completed a lab on SQL injection with concatenate, but was confused that the application was on Microsoft SQL DB and needed to change the syntax. Had to search this up. 
+Practiced executing a UNION select for version type in a lab and learned the proper syntax and method with burp + CTRL+U
+Executed a SQL injection using information_schema in PostgreSQL DB using UNION SELECT injection
