@@ -22,3 +22,9 @@ Completed a lab where I retrieved admin credentials through UNION SELECT attack 
 Completed a lab on SQL injection with concatenate, but was confused that the application was on Microsoft SQL DB and needed to change the syntax. Had to search this up. 
 Practiced executing a UNION select for version type in a lab and learned the proper syntax and method with burp + CTRL+U
 Executed a SQL injection using information_schema in PostgreSQL DB using UNION SELECT injection
+
+12/25
+SQL Injection:
+Performed SQL injection in lab with UNION SELECT through column names
+No SQL injection:
+Learned the process for using tracking cookies to perform NoSQL injection in applications that don't process SQL outputs via HTTP
